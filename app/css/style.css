@@ -1,0 +1,12 @@
+*{
+    margin: 0; 
+    padding: 0;
+}
+body{
+    background-color: #15FF00;
+}
+.corpo{
+    width: 800px;
+    background-color: #fff;
+    margin: 0 auto;
+}
